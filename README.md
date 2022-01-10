@@ -1,6 +1,6 @@
 # AdventOfCode2021
 
-## AdventOfCode2021Solutions
+## AdventOfCode2021Solutions (incomplete, only first 14 days)
 
 Each Day's assignment is contained in one single folder under src.
 
